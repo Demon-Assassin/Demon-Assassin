@@ -1,4 +1,8 @@
-### Hi there 👋
+## Dear You who reading this:
+
+Hi there,welcome👋.
+
+Here R some daily code of Demon-Assassin including coping & creating for life.
 
 <!--
 **Demon-Assassin/Demon-Assassin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
