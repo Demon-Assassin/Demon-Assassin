@@ -6,15 +6,16 @@ Here R some daily code of Demon-Assassin including coping & creating for life.
 
 💪 正在学习:
 
-   C++ Java MySQL HTML5 CSS3 JavaScript jQuery TypeScript Vue React Nodejs
+   C++ Java MySQL HTML5 CSS3 JavaScript Vue React Nodejs
 
 🧠 计划学习:
 
-   C Python R Qt Docker Shell Script
+   SQL Android Shell code 
 
 🧰 常用的工具:
 
-   Windows Linux Android Google Chrome Edge Visual Studio Code Git GitHub
+   Windows Android Google Chrome Edge Visual Studio GitHub CSDN
+Let's runing for the The Great Age of Peace！
 
 <!--
 **Demon-Assassin/Demon-Assassin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
